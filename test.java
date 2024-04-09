@@ -9,6 +9,8 @@ public class test{
         int result = (int) Math.sqrt(num1);
 
         System.out.println("the result is " + result);
+
+        scnr.close();
     
     }
 }
